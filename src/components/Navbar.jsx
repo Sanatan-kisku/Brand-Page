@@ -13,7 +13,7 @@ export default function Navbar() {
         <li href="#">About</li>
         <li href="#">Contact</li>
       </ul>
-      <button className='btn'>Login</button>
+      <button className='redBtn'>Login</button>
       </nav>
     </div>
   )
